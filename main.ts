@@ -1,4 +1,4 @@
-// Earned pride v2 — writes the one-line entry to $MAKEFUN_OUTPUT_DIR/entry.txt.
+// Earned pride v3 — writes the one-line entry to $MAKEFUN_OUTPUT_DIR/entry.txt.
 // Plain JavaScript (no TypeScript annotations); runs on node22 as-is.
 // Reads entry.txt sitting next to this script, validates it, copies it
 // byte-for-byte to the output directory. No deps, no network.
